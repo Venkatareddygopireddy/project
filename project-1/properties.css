@@ -1,0 +1,179 @@
+.yashw {
+    display: flex;
+
+}
+
+.venkat {
+    display: flex;
+    padding: 0px 30px;
+    gap: 10px;
+    margin-left: 70px;
+}
+
+.khaja img {
+    height: 20px;
+    width: 20px;
+}
+
+.yashwanth {
+    display: flex;
+    padding-left: 70px;
+    gap: 10px;
+}
+
+.yash {
+    padding-left: 800px;
+
+}
+
+/* .yash a{
+    justify-content: space-between;
+
+} */
+/* title's-nave part */
+.v-navs {
+    display: flex;
+    align-items: center;
+
+}
+
+.title {
+    font-weight: bold;
+    padding: 0px 300px 0px 50px;
+}
+
+.h-p-p-c-s a {
+    padding-left: 100px;
+    gap: 50px;
+    padding-right: 50px;
+
+}
+
+.h-p-p-c-s {
+    display: flex;
+
+}
+
+/* .s-c-a {
+    padding-left: 130px;
+    border: none;
+    background-color: rgb(224, 191, 191);
+   
+} */
+.title-part {
+    position: fixed;
+    background-color: white;
+    width: 100%;
+}
+
+.pro-bb-1 {
+    background: url(./assests/page-heading-bg.jpg);
+    height: 400px;
+
+}
+
+.h-p h1 {
+    padding: 100PX 0PX 0PX 600px;
+    /* background-color: rgb(199, 189, 189);
+    position: absolute; */
+    /* align-items: center; */
+    color: white;
+}
+
+.prop {
+    padding: 0px 0px 0px 570px;
+    color: white;
+    font-size: xx-large;
+}
+
+.s-a-v-p {
+    display: flex;
+    gap: 50px;
+    padding-left: 530px;
+}
+
+.Show-all {
+    background-color: black;
+    color: white;
+    border-radius: 10px;
+    padding: 10px 20px;
+}
+
+/* a{
+    color: white;
+    text-decoration: none;
+} */
+.house-typ {
+    margin-top: 80px;
+    margin-bottom: 80px;
+}
+
+.Show-all a {
+    color: white;
+    text-decoration: none;
+
+}
+.villa-section{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    gap: 200px;
+    padding-left: 39px;
+
+
+}
+.villa-card{
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 0 14px 19px rgba(0, 0,0,0.08);
+    padding-right: 20px;
+
+
+}
+.villa-info{
+    padding: 20px;
+
+
+}
+.villa-label{
+    background-color: rgb(201, 139, 95);
+    padding: 5px 10px;
+    border-radius: 10px;
+
+
+}
+.villa-price{
+    font-size: x-large;
+    margin: 10px 0;
+    color: rgb(211, 52, 4);
+}
+.villa-address{
+   font-weight:bolder;
+   margin-bottom: 10px;
+}
+.villa-details{
+    list-style: none;
+    padding: 0;
+    margin: 0 0 20px 0;
+    font-size: large;
+    /* display: flex; */
+
+
+}
+button{
+    border: none;
+    background-color: black;
+    color: white;
+    padding: 10px 16px;
+    border-radius: 15px;
+}
+.buttons-p{
+    margin: 100px 0px 100px 680px;
+    
+
+}
+.copyright{
+    padding: 20px 500px;
+    background-color: black;
+    color: white;
+}

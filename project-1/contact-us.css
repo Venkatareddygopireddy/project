@@ -1,0 +1,159 @@
+.yashw {
+    display: flex;
+
+}
+
+.venkat {
+    display: flex;
+    padding: 0px 30px;
+    gap: 10px;
+    margin-left: 70px;
+}
+
+.khaja img {
+    height: 20px;
+    width: 20px;
+}
+
+.yashwanth {
+    display: flex;
+    padding-left: 70px;
+    gap: 10px;
+}
+
+.yash {
+    padding-left: 800px;
+
+}
+
+/* .yash a{
+    justify-content: space-between;
+
+} */
+/* title's-nave part */
+.v-navs {
+    display: flex;
+    align-items: center;
+
+}
+
+.title {
+    font-weight: bold;
+    padding: 0px 300px 0px 50px;
+}
+
+.h-p-p-c-s a {
+    padding-left: 100px;
+    gap: 50px;
+    padding-right: 50px;
+
+}
+
+.h-p-p-c-s {
+    display: flex;
+
+}
+
+/* .s-c-a {
+    padding-left: 130px;
+    border: none;
+    background-color: rgb(224, 191, 191);
+   
+} */
+.title-part {
+    position: fixed;
+    background-color: white;
+    width: 100%;
+}
+
+.pro-bb-1 {
+    background: url(./assests/page-heading-bg.jpg);
+    height: 400px;
+
+}
+
+.h-p h1 {
+    padding: 100PX 0PX 0PX 600px;
+    /* background-color: rgb(199, 189, 189);
+    position: absolute; */
+    /* align-items: center; */
+    color: white;
+}
+
+.prop {
+    padding: 0px 0px 0px 570px;
+    color: white;
+    font-size: xx-large;
+}
+.conta-us{
+    display: flex;
+    gap: 200px;
+}
+.contact-us{
+    margin: 50px 50px 50px 50px;
+    
+}
+.g-i-t{
+    width: 700px;
+    height: 500px;
+}
+.p-n{
+    display: flex;
+    border: 1px solid black;
+    width: 200px;
+    padding: 20px 70px 20px 20px;
+    margin: 30px 0px 10px 0px;
+    border-radius: 8px;
+    box-shadow: 0px 0px 5px 4px rgb(71, 46, 46);
+}
+.b-e{
+    display: flex;
+    border: 1px solid black;
+    width: 200px;
+    padding: 20px 70px 20px 20px;
+    margin: 10px 0px 10px 0px;
+    border-radius: 8px;
+    box-shadow: 0px 0px 5px 4px rgb(71, 46, 46);
+}
+.send-message{
+    box-shadow: 0px 0px 4px 4px rgb(70, 15, 15);
+    padding: 20px;
+}
+ /* .send-message{
+    width: 500px;
+    height: 500px;
+    padding: 20px 20px 30px 20px;
+ } */
+.detail{
+    border-radius: 10px;
+    box-shadow: 0px 0px 5px 2px rgb(15, 15, 15);
+}
+.button-sm{
+    background-color: black;
+    color: white;
+    border-radius: 5px;
+    /* position: absolute; */
+    padding: 5px 10px;
+}
+.g-i-t h3{
+    color: rgb(235, 25, 25);
+}
+.g-i-t-w{
+    font-size: xx-large;
+    font-weight: bold;
+
+}
+.g-i-t p{
+    padding: 40px 30px 30px 0px;
+}
+.map-sec{
+    width: 100%;
+}
+.copyright{
+    padding: 20px 500px;
+    background-color: black;
+    color: white;
+}
+.end{
+    padding-top: 100px;
+}
